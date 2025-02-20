@@ -3,6 +3,8 @@
 
 # Modern Python library for D-Bus
 
+test coucou
+
 <a href="https://repology.org/project/python:sdbus/versions">
     <img src="https://repology.org/badge/vertical-allrepos/python:sdbus.svg" alt="Packaging status" align="right">
 </a>
